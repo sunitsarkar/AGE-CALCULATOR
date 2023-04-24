@@ -1,0 +1,49 @@
+#main{
+    background-color: rgb(30, 83, 230);
+    height: 600px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+#cal{
+    height: 400px;
+    width: 50%;
+    background-color: white;
+    margin: 0px auto;
+    border-radius: 25px;
+}
+h1{
+    text-align: center;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 0px;
+    background-color: white;
+    color: rgb(17, 17, 153);
+}
+h2{
+    color: rgb(38, 83, 230);
+}
+#date{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+.box{
+    height: 100px;
+    width: 100px;
+}
+.input{
+    width: 100px;
+    height: 30px;
+}
+
+button{
+    margin-left: 21em;
+    background-color: rgb(38, 83, 230);
+    height: 40px;
+    width: 120px;
+    border-radius: 2px;
+}
+.show{
+    color: rgb(30, 83, 230);
+    text-align: center;
+}
