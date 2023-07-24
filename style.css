@@ -41,7 +41,7 @@ button{
     background-color: rgb(38, 83, 230);
     height: 40px;
     width: 120px;
-    border-radius: 2px;
+    border-radius: 5px;
 }
 .show{
     color: rgb(30, 83, 230);
